@@ -9,7 +9,7 @@ New lines are required between conditionals, what needs to occur for this switch
 ## Usage
 
 ```yml
-      - uses: dkershner6/switch-case-action@v1
+      - uses: superbrave/switch-case-action@v1
         id: switch-case
         with:
           default: "its the default"
@@ -22,7 +22,7 @@ New lines are required between conditionals, what needs to occur for this switch
 
 
 ```yml
-      - uses: dkershner6/switch-case-action@v1
+      - uses: superbrave/switch-case-action@v1
         id: switch-case
         with:
           default: "its the default"
